@@ -30,9 +30,9 @@ This project demonstrates a complete implementation of a modern iOS application,
 ## Screenshots
 <!-- 請在下方替換成你實際的 App 畫面截圖連結，你可以直接把截圖拖曳到 GitHub 的編輯框裡，它會自動生成網址 -->
 <p align="center">
-  <img src="<app_home.PNG>" width="250" alt="Home Screen">
-  <img src="<app_recommendation.jpg>" width="250" alt="Recommendation Screen">
-  <img src="<app_library.PNG>" width="250" alt="Meme Library Screen">
+  <img src="app_home.PNG" width="250" alt="Home Screen">
+  <img src="app_recommendation.jpg" width="250" alt="Recommendation Screen">
+  <img src="app_library.PNG" width="250" alt="Meme Library Screen">
 </p>
 
 ## Requirements
