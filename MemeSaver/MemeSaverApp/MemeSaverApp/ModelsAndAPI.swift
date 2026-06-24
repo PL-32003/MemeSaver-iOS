@@ -68,7 +68,7 @@ struct RecommendationItem: Codable, Identifiable {
 
 class MemeAPIService {
     // ⚠️ 執行前請務必填寫你申請的 Gemini API Key
-    private let apiKey = "AIzaSyC_kuTPiTMnHPXZgO8etRYeY97odwq8jnA"
+    private let apiKey = ""
     private let apiUrl = URL(string: "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent")!
     
     func analyzeNewMeme(image: UIImage) async throws -> APIMemeAnalysis {
