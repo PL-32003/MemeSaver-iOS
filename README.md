@@ -47,6 +47,6 @@ This project demonstrates a complete implementation of a modern iOS application,
 
 1. Open MemeSaver.xcodeproj in Xcode.
 2. Add your Gemini API Key:
-  Locate the configuration file or environment variables setup in the project.
-  Insert your valid Google Gemini API Key.
-3. Build and run the project on a simulator or a physical iOS device.
+   Locate the configuration file or environment variables setup in the project.
+   Insert your valid Google Gemini API Key.
+5. Build and run the project on a simulator or a physical iOS device.
