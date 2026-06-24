@@ -2,7 +2,7 @@
 
 An intelligent iOS application that directly analyzes chat screenshots and recommends relevant memes based on the conversation context. 
 
-## 📖 Overview
+## Overview
 MemeSaver bridges the gap between everyday conversations and meme culture. By leveraging the multimodal capabilities of a Large Language Model (LLM), the app intelligently understands the context and emotional tone of a user's chat screenshot and suggests the most fitting memes to reply with. 
 
 This project demonstrates a complete implementation of a modern iOS application, integrating local data management and cloud-based AI to provide a seamless user experience.
