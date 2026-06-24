@@ -39,7 +39,7 @@ This project demonstrates a complete implementation of a modern iOS application,
 ## Installation & Setup
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/PL-32003/MemeSaver-iOS.git](https://github.com/PL-32003/MemeSaver-iOS.git)
+   git clone https://github.com/PL-32003/MemeSaver-iOS.git
 ```
 
 2. Open MemeSaver.xcodeproj in Xcode.
